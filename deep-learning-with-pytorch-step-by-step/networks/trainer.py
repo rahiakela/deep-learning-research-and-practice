@@ -1,4 +1,4 @@
-class LinearRegression(object):
+class Trainer(object):
   def __init__(self, model, loss_fn, optimizer):
     # Here we define the attributes of our class 
     # We start by storing the arguments as attributes to use them later
